@@ -1,0 +1,8 @@
+*.*
+*
+!*/
+!/source/*
+!Makefile
+!.gitignore
+!README.md
+/build
